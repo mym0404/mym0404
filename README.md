@@ -38,6 +38,9 @@ Hobby: PS, Blog posting
 
 [Goto Codeforces profile](https://codeforces.com/profile/mym0404)
 
+- [Library project Orgarnization](https://github.com/mj-studio-library)
+- [Sample project Orgarnization](https://github.com/mj-studio-sample)
+
 <h2><b>🏆 Tech</b></h2>
 
 If you need more information about my techs, check my sample, library repositories or website.
