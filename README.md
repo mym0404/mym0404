@@ -1,11 +1,16 @@
 ## MJ Studio 🙌
 
-<h3 align="center"><b>📖 About me 📖</b></h3>
+<h2><b>Profile</b></h2>
 
-- 1997.04.04
-- GIST EECS 16(undergraduate)
-- Mobile Developer
-- Hobby: PS, Blog posting
+1997.04.04
+
+GIST EECS 16(undergraduate)
+
+Mobile Developer
+
+Hobby: PS, Blog posting
+
+<h2><b>About me</b></h2>
 
 ![Dev.to blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
@@ -23,6 +28,15 @@
 
 [Goto Stack Overflow profile](https://stackoverflow.com/users/10199138/mj-studio)
 
+![BOJ](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)
+
+[Goto BOJ profile](https://www.acmicpc.net/user/mym0404)
+
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+
+[Goto Codeforces profile](https://codeforces.com/profile/mym0404)
+
+<h2><b>Tech</b></h2>
 
 <h3><b>Android</b></h3>
 <br/>
@@ -105,6 +119,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <h3><b>IDE</b></h3>
 <br/>
