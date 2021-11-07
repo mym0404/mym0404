@@ -10,7 +10,7 @@ GIST EECS 16(undergraduate, TGPA 3.62/4.5, last semester 4.5/4.5)
 
 Mobile Developer
 
-Hobby: PS, Blog posting
+Hobby: Competitive Programming, Blog posting
 
 <h2><b>🤔 About me</b></h2>
 
