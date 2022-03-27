@@ -1,7 +1,5 @@
 ## MJ Studio
 
-### I don't need a job now.
-
 <h2><b>🤖 Profile</b></h2>
 
 1997.04.04
