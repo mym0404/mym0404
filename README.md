@@ -4,7 +4,7 @@
 
 1997.04.04
 
-GIST EECS 16(undergraduate, TGPA 3.62/4.5, last semester 4.5/4.5)
+GIST EECS 16(undergraduate)
 
 Mobile Developer
 
