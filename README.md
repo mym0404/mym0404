@@ -25,7 +25,7 @@ Hobby: Competitive Programming, Blog posting
 - [Libaries](https://github.com/mj-studio-library)
 - [Samples](https://github.com/mj-studio-sample)
 
-<h2><b>🏆 Tech</b></h2>
+<h2><b>Tech 🏆</b></h2>
 
 If you need more information about my techs, check my sample, library repositories or website.
 
@@ -58,6 +58,16 @@ If you need more information about my techs, check my sample, library repositori
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <h3><b>React Native: Advanced Expert 🔥</b></h3>
+
+#### Why advanced expert?
+
+I developed and maintained [a large RN project](https://www.iammathking.com/) for about 3 years almost alone. From it, I experienced very deep and tough side effects of React Native like weird platform, library bugs / hard performance optimization / Interoperability with other JS contexts, and native side / Nightmare Crash/Error tracings.
+I tried so many famous or new paradigm technics to facilitate RN more effectively.
+
+Also, I can easily read or write Kotlin, Java, Swift code, and native code for Android/iOS based on my native Android or iOS development knowledge. I created or contributed some RN native libraries.
+
+
+
 <br/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
