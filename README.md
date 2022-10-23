@@ -25,7 +25,7 @@ Hobby: Competitive Programming, Blog posting
 - [Libaries](https://github.com/mj-studio-library)
 - [Samples](https://github.com/mj-studio-sample)
 
-<h2><b>Tech 🏆</b></h2>
+<h2><b>Technology 🏆</b></h2>
 
 If you need more information about my techs, check my sample, library repositories or website.
 
@@ -64,7 +64,7 @@ If you need more information about my techs, check my sample, library repositori
 I developed and maintained [a large RN project](https://www.iammathking.com/) for about 3 years almost alone. From it, I experienced very deep and tough side effects of React Native like weird platform, library bugs / hard performance optimization / Interoperability with other JS contexts, and native side / Nightmare Crash/Error tracings.
 I tried so many famous or new paradigm technics to facilitate RN more effectively.
 
-Also, I can easily read or write Kotlin, Java, Swift code, and native code for Android/iOS based on my native Android or iOS development knowledge. I created or contributed some RN native libraries.
+Also, I can easily read or write Kotlin, Java, Swift code, and native code for Android/iOS based on my native Android or iOS development knowledge. I created or [contributed](https://github.com/react-native-seoul/react-native-naver-login/releases/tag/3.0.0-rc.1) some RN native libraries.
 
 
 
