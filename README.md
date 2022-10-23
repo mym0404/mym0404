@@ -1,49 +1,35 @@
-## MJ Studio
+<img width="876" alt="MJStudio_horizontal" src="https://user-images.githubusercontent.com/33388801/197379282-5837b345-3c96-4e67-91c2-0f88566367f4.png">
 
-<h2><b>🤖 Profile</b></h2>
+
+<h2><b>Bio 🧩</b></h2>
 
 1997.04.04
 
 GIST EECS 16(undergraduate)
 
-Mobile Developer
+I am a frontend newbie developer.
+
+I like React Native, Flutter, Android, iOS, React
 
 Hobby: Competitive Programming, Blog posting
 
-<h2><b>🤔 About me</b></h2>
+<h2><b>More about me 🚀</b></h2>
 
-![Dev.to blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[![Development blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mjstudio.net/)
+[![Medium Publication](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/mj-studio)
+[![Naver Blog](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/mym0404)
+[![Stack Overflow Profile](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10199138/mj-studio)
+[![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
+[![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mym0404)
 
-[Goto website](https://www.mjstudio.net/)
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-[Goto Medium publication](https://medium.com/mj-studio)
-
-![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-
-[Goto Naver blog](https://blog.naver.com/mym0404)
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-[Goto Stack Overflow profile](https://stackoverflow.com/users/10199138/mj-studio)
-
-![BOJ](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)
-
-[Goto BOJ profile](https://www.acmicpc.net/user/mym0404)
-
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-
-[Goto Codeforces profile](https://codeforces.com/profile/mym0404)
-
-- [Library project Organization](https://github.com/mj-studio-library)
-- [Sample project Organization](https://github.com/mj-studio-sample)
+- [Libaries](https://github.com/mj-studio-library)
+- [Samples](https://github.com/mj-studio-sample)
 
 <h2><b>🏆 Tech</b></h2>
 
 If you need more information about my techs, check my sample, library repositories or website.
 
-<h3><b>Android</b></h3>
+<h3><b>Android: Expert 🔥</b></h3>
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -52,14 +38,14 @@ If you need more information about my techs, check my sample, library repositori
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-<h3><b>iOS</b></h3>
+<h3><b>iOS: Intermediate ⭐️</b></h3>
 <br/>
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<h3><b>React</b></h3>
+<h3><b>React: Expert 🔥</b></h3>
 <br/>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,7 +57,7 @@ If you need more information about my techs, check my sample, library repositori
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h3><b>React Native</b></h3>
+<h3><b>React Native: Advanced Expert 🔥</b></h3>
 <br/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -85,7 +71,7 @@ If you need more information about my techs, check my sample, library repositori
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-<h3><b>Flutter</b></h3>
+<h3><b>Flutter: Expert 🔥</b></h3>
 <br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -94,7 +80,7 @@ If you need more information about my techs, check my sample, library repositori
 
 
 
-<h3><b>Problem Solving</b></h3>
+<h3><b>Problem Solving: Beginner 🥶</b></h3>
 <br/>
 
 [![Solved.ac
