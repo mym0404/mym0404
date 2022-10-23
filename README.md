@@ -29,36 +29,31 @@ Hobby: Competitive Programming, Blog posting
 
 If you need more information about my techs, check my sample, library repositories or website.
 
-<h3><b>Android: Expert 🔥</b></h3>
-<br/>
+### Android - Expert 🔥
+---
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-<h3><b>iOS: Intermediate ⭐️</b></h3>
-<br/>
+
+### iOS - Intermediate ⭐️
+---
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<h3><b>React: Expert 🔥</b></h3>
-<br/>
+### React - Expert 🔥
+---
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h3><b>React Native: Advanced Expert 🔥</b></h3>
-
+### React Native - Advanced Expert 🔥🔥
+---
 #### Why advanced expert?
 
 I developed and maintained [a large RN project](https://www.iammathking.com/) for about 3 years almost alone. From it, I experienced very deep and tough side effects of React Native like weird platform, library bugs / hard performance optimization / Interoperability with other JS contexts, and native side / Nightmare Crash/Error tracings.
@@ -66,12 +61,7 @@ I tried so many famous or new paradigm technics to facilitate RN more effectivel
 
 Also, I can easily read or write Kotlin, Java, Swift code, and native code for Android/iOS based on my native Android or iOS development knowledge. I created or [contributed](https://github.com/react-native-seoul/react-native-naver-login/releases/tag/3.0.0-rc.1) some RN native libraries.
 
-
-
-<br/>
-
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -81,38 +71,51 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-<h3><b>Flutter: Expert 🔥</b></h3>
-<br/>
+### Flutter - Expert 🔥
+---
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+### PS - Beginner 👎
+---
 
+I solved about 5K problems and I couldn't find any possibility myself.
 
-<h3><b>Problem Solving: Beginner 🥶</b></h3>
-<br/>
+But I convinced it was the most fun of my life.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mym0404)](https://solved.ac/mym0404)
+[![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
+[![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mym0404)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mym0404)](https://solved.ac/en/profile/mym0404)
+
+<img width=500 src="https://user-images.githubusercontent.com/33388801/197386997-31a7ba63-fb62-43d4-b59d-37adfe58fd4a.png"/>
+
+<img width=500 src="https://user-images.githubusercontent.com/33388801/197387046-f8b60da8-c860-45a2-a5f4-289ed04c5e37.png"/>
+
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3><b>Windows</b></h3>
-<br/>
+### Windows - Hobby ☕️
+---
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<h3><b>CI</b></h3>
-<br/>
+### CI/CD configuration - Intermediate ⭐️
+---
+
+I am not good at shell script of static analyzation & configuration setup.
+
+But React Native CD setup was so tough thing.
 
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<h3><b>IDE</b></h3>
-<br/>
+
+### IDE
+---
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
@@ -121,14 +124,14 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-<h3><b>VCS</b></h3>
-<br/>
+### VCS
+---
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3><b>Dev console & Bot</b></h3>
-<br/>
+### Dev Console & Bot configuration
+---
 
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
@@ -140,8 +143,8 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h3><b>ETC</b></h3>
-<br/>
+### Any other experiences
+---
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
