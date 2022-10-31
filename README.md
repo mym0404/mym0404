@@ -3,8 +3,6 @@
 
 <h2><b>Bio 🧩</b></h2>
 
-1997.04.04
-
 GIST EECS 16(undergraduate)
 
 I am a frontend newbie developer.
