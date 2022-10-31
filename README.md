@@ -3,8 +3,6 @@
 
 <h2><b>Bio 🧩</b></h2>
 
-GIST EECS 16(undergraduate)
-
 I am a frontend newbie developer.
 
 I like React Native, Flutter, Android, iOS, React
