@@ -1,15 +1,15 @@
 <img width="876" alt="MJStudio_horizontal" src="https://user-images.githubusercontent.com/33388801/197379282-5837b345-3c96-4e67-91c2-0f88566367f4.png">
 
 
-<h2><b>Bio 🧩</b></h2>
+<h2><b>Bio</b></h2>
 
-I am a frontend newbie developer.
+Frontend developer.
 
-I like React Native, Flutter, Android, iOS, React
+React Native, Flutter, Android, iOS, React
 
-Hobby: Competitive Programming, Blog posting
+Competitive Programming, Blog posting
 
-<h2><b>More about me 🚀</b></h2>
+<h2><b>More</b></h2>
 
 [![Development blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mjstudio.net/)
 [![Medium Publication](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/mj-studio)
@@ -21,7 +21,7 @@ Hobby: Competitive Programming, Blog posting
 - [Libaries](https://github.com/mj-studio-library)
 - [Samples](https://github.com/mj-studio-sample)
 
-<h2><b>Technology 🏆</b></h2>
+<h2><b>Technology</b></h2>
 
 If you need more information about my techs, check my sample, library repositories or website.
 
@@ -70,9 +70,7 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ### PS - Beginner 👎
 ---
 
-I solved about 5K problems and I couldn't find any possibility myself.
-
-But I convinced it was the most fun of my life.
+The most sustainable enjoyable of my life.
 
 [![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
 [![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mym0404)
