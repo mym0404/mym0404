@@ -13,6 +13,7 @@ Competitive Programming, Blog posting
 
 [![Development blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mjstudio.net/)
 [![Medium Publication](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/mj-studio)
+[![PS Blog](https://img.shields.io/badge/-PS%20BLOG-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://ps.mjstudio.net/)
 [![Naver Blog](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/mym0404)
 [![Stack Overflow Profile](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10199138/mj-studio)
 [![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
@@ -70,17 +71,13 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ### PS - Beginner 👎
 ---
 
-The most sustainable enjoyable of my life.
+Enjoy
 
+[![PS Blog](https://img.shields.io/badge/-PS%20BLOG-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://ps.mjstudio.net/)
 [![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
 [![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mym0404)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mym0404)](https://solved.ac/en/profile/mym0404)
-
-<img width=500 src="https://user-images.githubusercontent.com/33388801/197386997-31a7ba63-fb62-43d4-b59d-37adfe58fd4a.png"/>
-
-<img width=500 src="https://user-images.githubusercontent.com/33388801/197387046-f8b60da8-c860-45a2-a5f4-289ed04c5e37.png"/>
-
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
