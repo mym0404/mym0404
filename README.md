@@ -1,5 +1,6 @@
 <img width="876" alt="MJStudio_horizontal" src="https://user-images.githubusercontent.com/33388801/197379282-5837b345-3c96-4e67-91c2-0f88566367f4.png">
 
+[![committers.top badge](https://user-badge.committers.top/south_korea_private/mym0404.svg)](https://user-badge.committers.top/south_korea_private/mym0404)
 
 <h2><b>Bio</b></h2>
 
