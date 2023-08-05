@@ -67,6 +67,12 @@ Also, I can easily read or write Kotlin, Java, Swift code, and native code for A
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+[Toy Project, Timer - iOS](https://apps.apple.com/kr/app/timing-neat-timer/id6443517176?l=en-GB)
+
+[Toy Project, AWS Certified Problem Solver - Android](https://play.google.com/store/apps/details?id=com.symsul.jagyeok.exam002)
+
+[Toy Project, AWS Certified Problem Solver - iOS](https://apps.apple.com/kr/app/aws-certified-2023/id6443463141?l=en-GB)
+
 ### PS - Beginner 👎
 ---
 
