@@ -38,6 +38,8 @@ If you need more information about my techs, check my sample, library repositori
 ### iOS - Intermediate ⭐️
 ---
 
+Recently, I am [learning hard](https://ps.mjstudio.net/swift-ui-study) on iOS. 
+
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
