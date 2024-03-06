@@ -18,8 +18,8 @@ Competitive Programming, Blog posting
 [![Baekjoon online judge profile](https://img.shields.io/badge/BOJ-12100E?style=for-the-badge&logo=c++&logoColor=white)](https://www.acmicpc.net/user/mym0404)
 [![Codeforces profile](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mym0404)
 
-- [Libaries](https://github.com/mj-studio-library)
-- [Samples](https://github.com/mj-studio-sample)
+- [Library](https://github.com/mj-studio-library)
+- [Playground](https://github.com/mj-studio-playground)
 
 <h2><b>Technology</b></h2>
 
