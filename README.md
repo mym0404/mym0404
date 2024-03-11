@@ -1,4 +1,5 @@
-<img width="876" alt="MJStudio_horizontal" src="https://user-images.githubusercontent.com/33388801/197379282-5837b345-3c96-4e67-91c2-0f88566367f4.png">
+<img width="876" alt="MJStudio_horizontal" src="https://github.com/mym0404/mym0404/assets/33388801/7d0d132c-da6b-4fdc-8f0d-d5449ca9f0b1">
+
 
 <h2><b>Bio</b></h2>
 
