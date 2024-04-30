@@ -2,8 +2,6 @@
 
 <h2><b>Bio</b></h2>
 
-Frontend developer.
-
 React Native, Flutter, Android, iOS, React
 
 Competitive Programming, Blog posting
