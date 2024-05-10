@@ -1,4 +1,4 @@
-<img width="876" alt="MJStudio_horizontal" src="https://raw.githubusercontent.com/mym0404/image-archive/master/202403180121495.webp">
+<img width="876" alt="MJStudio_horizontal" src="https://raw.githubusercontent.com/mym0404/image-archive/master/202405101001688.webp">
 
 <h2><b>Bio</b></h2>
 
