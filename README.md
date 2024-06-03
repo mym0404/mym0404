@@ -4,7 +4,7 @@
 
 React Native, Flutter, Android, iOS, React
 
-Competitive Programming, Blog posting
+Competitive Programming, Blog posting, Stable Diffusion
 
 [Real World Profile](https://namu.wiki/w/%EB%AC%B8%EB%AA%85%EC%A3%BC)
 
