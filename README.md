@@ -2,13 +2,13 @@
 
 <h2><b>Bio</b></h2>
 
-React Native, Flutter, Android, iOS, React
+React Native, iOS, Flutter, Android, React, VIM
 
 Competitive Programming, Blog posting, Stable Diffusion
 
 [Real World Profile](https://namu.wiki/w/%EB%AC%B8%EB%AA%85%EC%A3%BC)
 
-SOPT 25, 27, 30th
+SOPT 25, 27, 30th Android
 
 <h2><b>More</b></h2>
 
