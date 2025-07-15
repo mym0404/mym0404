@@ -8,6 +8,8 @@ Competitive Programming, Blog posting, Stable Diffusion
 
 [Real World Profile](https://namu.wiki/w/%EB%AC%B8%EB%AA%85%EC%A3%BC)
 
+SOPT 25, 27, 30th
+
 <h2><b>More</b></h2>
 
 [![Development blog](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mjstudio.net/)
